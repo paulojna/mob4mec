@@ -1,0 +1,3 @@
+package mobilitysetup;
+
+@license(LGPL);

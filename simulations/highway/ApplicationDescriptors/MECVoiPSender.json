@@ -1,0 +1,11 @@
+"appDid" : "VOIPAPP",
+"appName" : "MECVoIPSenderApp",
+"appProvider" : "simu5g.apps.mec.MECVoIP.MECVoIPSenderApp",
+"appInfoName" : "appInfoName_",
+"appDescription" : "appDescription_",
+"virtualComputeDescriptor" :{
+    "virtualDisk": 10,
+    "virtualCpu" : 1500,
+    "virtualMemory":10
+    }
+}

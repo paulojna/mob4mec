@@ -1,0 +1,5 @@
+<launch>
+  <copy file="net.net.xml"/>
+  <copy file="routes.xml"/>
+  <copy file="manhattan.sumocfg" type="config"/>
+</launch>
